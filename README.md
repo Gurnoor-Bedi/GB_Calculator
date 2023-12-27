@@ -1,8 +1,5 @@
 # GB_Calculator
 
-Here's an example of a README file for your Python calculator code. This README is written in Markdown format, which is commonly used for GitHub README files.
-
----
 
 # Python Calculator
 
